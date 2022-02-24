@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147365667946",
+    "project_id": "depresion-dfa39",
+    "storage_bucket": "depresion-dfa39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147365667946:android:8927a00a4a521f16ccd613",
+        "android_client_info": {
+          "package_name": "com.example.depresion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147365667946-p33vmt04un41gjlaqm82bp6modfr4h5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRW4RZuVrb54HcENBD94Ln1EbaB8w01Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147365667946-p33vmt04un41gjlaqm82bp6modfr4h5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
